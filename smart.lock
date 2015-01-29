@@ -1,0 +1,27 @@
+{
+  "meteor": {},
+  "dependencies": {
+    "basePackages": {
+      "bootstrap-3": {},
+      "bootstrap3-slider-touch": {},
+      "modernizr-meteor": {}
+    },
+    "packages": {
+      "bootstrap-3": {
+        "git": "https://github.com/mangasocial/meteor-bootstrap-3.git",
+        "tag": "v3.1.1-1",
+        "commit": "63dd38968828bb8963636df93e9a1c45e2dfe67e"
+      },
+      "bootstrap3-slider-touch": {
+        "git": "https://github.com/jcchin/meteor-bootstrap-slider-touch/",
+        "tag": "v2.0.3",
+        "commit": "3f8ce5ad2696fb80c337949890e2ded415ac3239"
+      },
+      "modernizr-meteor": {
+        "git": "https://github.com/ckir/modernizr-meteor.git",
+        "tag": "v2.6.2",
+        "commit": "391ca2a3beff3cd2b0e1099cb2d744b5a2e8a73e"
+      }
+    }
+  }
+}
